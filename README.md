@@ -4,8 +4,7 @@ Semana de Introducción a FrontEnd de LaunchX
 - Toma de requerimientos
 - Buyer persona
 - Publico objetivo
-- Wireframe UX
-- UI
+- Wireframe UI/UX
 
 La toma de requerimientos y el buyer persona se encuentran en el repositorio. 
 
